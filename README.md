@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitish Yadav</h1>
+<h1 align="center">Hi there 👋, I'm Nitish Yadav</h1>
 <h3 align="center">A passionate Full Stack Developer and Software Developer</h3>
 
 - 🔭 I’m currently working on **Web Development & Software Development**

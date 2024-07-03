@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **...**
 
-- 👨‍💻 All of my projects are available at [https://nitish-portfolio-six.vercel.app/](https://nitish-portfolio-six.vercel.app/)
+- 👨‍💻 Portfolio [https://nitish-portfolio-six.vercel.app/](https://nitish-portfolio-six.vercel.app/)
 
-- 📫 How to reach me **thisisnitishyadav@gmail.com**
+- 📫 Gmail **thisisnitishyadav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,3 +1,5 @@
+👋 Hi, I'm @thisisnitishyadav
+
 - 👋 Hi, I'm @thisisnitishyadav
 - 🔭 I’m currently working on Web Development & Software Development.
 - 🌱 I’m currently learning Python Programming & Machine Learning.

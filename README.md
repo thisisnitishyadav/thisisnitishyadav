@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Nitish Yadav</h1>
-<h3 align="center">A Full Stack Developer and Software Developer</h3>
+<h1 align="center">Hi, I'm Nitish Yadav</h1>
+<h3 align="center">An AI & ML Engineer and Software Developer</h3>
 
-- 🔭 I’m currently working on **Web Development & Software Development**
+- 🔭 I’m currently **Building BeonicX**
 
-- 🌱 I’m currently learning **Python Programming & Machine Learning**
+- 🌱 I’m currently working **Artificial Intelligence & Machine Learning**
 
 - 👯 I’m looking to collaborate on **...**
 

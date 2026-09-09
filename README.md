@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nitish Yadav</h1>
-<h3 align="center">A ML And Software Engineer</h3>
+<h3 align="center"> Software And ML Engineer</h3>
 
 - 🔭 I’m currently **Building BeonicX**
 

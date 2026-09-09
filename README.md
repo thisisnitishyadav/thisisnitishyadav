@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Nitish Yadav</h1>
-<h3 align="center">An AI & ML Engineer and Software Developer</h3>
+<h3 align="center">A ML And Software Engineer</h3>
 
 - 🔭 I’m currently **Building BeonicX**
 
 - 🌱 I’m currently working **Artificial Intelligence & Machine Learning**
 
 - 👯 I’m looking to collaborate on **...**
-
-- 👨‍💻 Portfolio [https://nitish-portfolio-six.vercel.app/](https://nitish-portfolio-six.vercel.app/)
 
 - 📫 Gmail **thisisnitishyadav@gmail.com**
 
